@@ -1,11 +1,8 @@
 body {
-<<<<<<< HEAD
-    background-color: lightblue;
-=======
+
     background-color: rgb(33, 113, 139);
     padding: 30px;
     height: auto;
->>>>>>> ded4937 (Added Padding CSS)
   }
   
   h1 {
